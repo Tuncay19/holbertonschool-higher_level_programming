@@ -8,3 +8,8 @@ git remote -v
 git branch -m main
 git config --global credential.helper 'cache --timeout=7200'
 git push -u origin main
+git add .
+git commit -m "isle"
+git push
+git push --set-upstream origin main
+vi README.md
