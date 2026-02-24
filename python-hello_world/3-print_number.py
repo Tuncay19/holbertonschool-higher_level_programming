@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 number = 98
-name = Battery
+name = "Battery"
 pritn (f"{number}, {name} street")
